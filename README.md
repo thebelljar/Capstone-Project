@@ -19,7 +19,12 @@ Below is a list of installations neccessary to carry out the project:
 1. Sparkify: main and only jupyter notebook that contains all of the analysis and commentary
 
 ## Results
+Gradient Boosted Tree came out with the highest F1 score 86%, which is 22% over the baseline performance of predicting a 0 label for all the users. Top three features that came out as being the most important ones were:
+- Average songs played
+- Number of thumbs down given
+- Total sessions
+which were expected because they highlight users' enagagement with the service. 
 
 
 ## Acknowledgements
-The data was provided by Udacity (https://www.udacity.com/) and the notebook was hosted on IBM cloud
+The data was provided by Udacity (https://www.udacity.com/) and the notebook was hosted on IBM cloud.
