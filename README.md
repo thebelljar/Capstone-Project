@@ -16,7 +16,7 @@ Below is a list of installations neccessary to carry out the project:
 6. Datetime
 
 ## Files
-1. Sparkify: main and only jupyter notebook that contains all of the analysis and commentary
+Sparkify: main and only jupyter notebook that contains all of the analysis and commentary
 
 ## Results
 Gradient Boosted Tree came out with the highest F1 score 86%, which is 22% over the baseline performance of predicting a 0 label for all the users. Top three features that came out as being the most important ones were:
