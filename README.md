@@ -1,5 +1,5 @@
 # Capstone Project: Sparkify
-Udacity's Data Science for Enterprise nanodegree final project
+Udacity's Data Science for Enterprise nanodegree final project. Blog post located here: https://medium.com/@a.abrosimova1/music-streaming-service-big-data-analysed-with-spark-318cdfeecea8
 
 ## Project motivation
 For the final project for my Data Science nanodegree, we had the opportunity to learn about and use Spark. The dataset was provided by Udacity and represented users' interaction with a music streaming service. There were options of using the full (12GB) dataset or medium (242MB) or small (128MB) subsets of that data. I picked the medium dataset and used IBM Watson Studio with Spark to analyse that data.
